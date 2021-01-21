@@ -1,5 +1,6 @@
 #SoloLearn
 #returning from functions
+#functions as objects
 """
 def max(x,y):
     if x >= y:
